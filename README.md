@@ -1,3 +1,3 @@
 # blogvadodds10
-blog oficial do vadodds10.
-Este é um novo projeto!
+repositorio de codigo do blog oficial do Vadodds10.
+
